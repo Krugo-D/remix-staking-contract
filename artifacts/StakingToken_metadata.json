@@ -387,10 +387,10 @@
 			]
 		},
 		"StakingToken.sol": {
-			"keccak256": "0x78ac74f103f43cbc77180d317483988bfb405ead30d0a391f766d149ce1c270a",
+			"keccak256": "0x4f076a39b3c05a4de250753d9758dc91f0fc33a16d48959cfb6f8a7c92555c70",
 			"urls": [
-				"bzz-raw://f8ba95a66185e1a22e1999ae9d8df0d04a1bfd6d8306d3476936c61ba926e7be",
-				"dweb:/ipfs/QmXixy4y4sxdMKk9gE3mUXsC1bVGiD5TuRvEqYBY3XqtKQ"
+				"bzz-raw://aa13d624111e6cb214ac2fde3162f99d5ff6967b2f262a63b20eadf7f358af8e",
+				"dweb:/ipfs/QmPUaktq9d9uUsA1JtJ3vnaoh9a4wdp165YFrVgjPus8iG"
 			]
 		}
 	},
